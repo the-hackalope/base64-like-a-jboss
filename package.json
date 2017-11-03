@@ -1,0 +1,19 @@
+{
+  "name": "base64-like-a-jboss",
+  "version": "1.0.0",
+  "description": "JS version of Base64Utils java class of JBoss Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiantJackalope/base64-like-a-jboss.git"
+  },
+  "author": "Valerio Luzzi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/GiantJackalope/base64-like-a-jboss/issues"
+  },
+  "homepage": "https://github.com/GiantJackalope/base64-like-a-jboss#readme"
+}
